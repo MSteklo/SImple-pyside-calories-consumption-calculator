@@ -1,5 +1,5 @@
 # SImple-pyside-calories-consumption-calculator
-SImple-pysice-calories-consumption-calculator is made with Pyside just to learn how to use pyside in everyday programming.
+SImple-pyside-calories-consumption-calculator is made with Pyside just to learn how to use pyside in everyday programming.
 
 Written in python
 
